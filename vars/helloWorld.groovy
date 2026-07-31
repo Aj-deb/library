@@ -1,3 +1,3 @@
-def helloWorld()
-    echo "hello world"
-    
+def helloWorld(){
+   echo "hello world"
+}
